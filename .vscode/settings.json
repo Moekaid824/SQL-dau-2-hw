@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "moesbase",
+            "connectString": "postgres://eslwsjbx:twPYGyv2HgLqkydz-KuL4zxw0Nlgbebc@floppy.db.elephantsql.com/eslwsjbx"
+        }
+    ]
+}

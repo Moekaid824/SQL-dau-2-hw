@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS customer CASCADE;
 CREATE TABLE customers(
     customer_id SERIAL PRIMARY KEY,
     first_name VARCHAR(50),
